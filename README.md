@@ -1,4 +1,4 @@
-# sql-node
+# SQL-node
 
 <p align="justify">
 	Projeto de estudo sobre SQL utilizando Sequelize para desenvolvimento de API's.
@@ -6,14 +6,14 @@
 
 **:rocket: Tecnologias:**
 
--[Node JS](https://nodejs.org).
--[PostgreSQL](https://www.postgresql.org/)
+- [Node JS](https://nodejs.org).
+- [PostgreSQL](https://www.postgresql.org/)
 
 **:package: Bibliotecas:**
 
--[Express](https://expressjs.com)
--[Sequelize](https://sequelize.org/)
+- [Express](https://expressjs.com)
+- [Sequelize](https://sequelize.org/)
 
 ---
 
-:coffe: Desenvolvido por Daniel Santos && [Rocketseat](https://github.com/Rocketseat)
+:coffee: Desenvolvido por Daniel Santos && [Rocketseat](https://github.com/Rocketseat)
